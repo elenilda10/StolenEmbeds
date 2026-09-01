@@ -1,3 +1,6 @@
+> [!WARNING]
+> forcing discord to show videos this way was patched in May 2025. this project is no longer maintained.
+
 <h1 align="center">stolen embeds</h1>
 <p align="center">
   <a href="https://skillicons.dev">
